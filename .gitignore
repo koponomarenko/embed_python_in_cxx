@@ -1,0 +1,16 @@
+# Vim .swp
+*.swp
+
+# Qt Creator
+#*.cflags
+#*.config
+#*.creator
+*.creator.user
+#*.cxxflags
+#*.files
+#*.includes
+*.autosave
+
+# Ignore Meson build dirs
+out-build*/
+
