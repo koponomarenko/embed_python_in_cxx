@@ -14,3 +14,7 @@
 # Ignore Meson build dirs
 out-build*/
 
+*.out
+
+# Python temp
+__pycache__/
