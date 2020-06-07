@@ -85,6 +85,9 @@ void boost_import_custom_module()
 // https://stackoverflow.com/questions/50154064/call-a-python-function-from-c-using-boost-python
 // A nice example of boost python:
 // https://stackoverflow.com/questions/38620134/how-to-import-a-function-from-python-file-by-boost-python
+// Add a dir to python sys.path so a python module can be found:
+// https://stackoverflow.com/questions/46669766/boost-python-how-to-import-py-in-imported-python-file
+
 int main()
 {
     // Allow Python to load modules from the current directory.
