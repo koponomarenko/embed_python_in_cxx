@@ -1,4 +1,4 @@
-The samples demonstrate how to use Python code from C++ with help of Boost.python.
+The samples demonstrate how to use `Python` code from `C++` with help of `Boost.Python`.
 
 
 ```
